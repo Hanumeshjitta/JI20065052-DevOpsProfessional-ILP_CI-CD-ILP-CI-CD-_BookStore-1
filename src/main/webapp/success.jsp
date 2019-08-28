@@ -5,6 +5,6 @@
 <title>SuccessPage</title>
 </head>
 <body>
-Login successfully... 
+Current User Login successfully... 
 </body>
 </html>
